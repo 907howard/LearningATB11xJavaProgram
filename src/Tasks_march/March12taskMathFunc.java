@@ -1,4 +1,4 @@
-package Task12march;
+package Tasks_march;
 
 public class March12taskMathFunc {
     public static void main(String[] args) {
