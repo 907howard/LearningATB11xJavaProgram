@@ -33,8 +33,8 @@ class Person {
             System.out.println("This is a default contructor example");
             }
         Person(String n,int a){
-            name = n;
-            age = a;
+            this.name = n;
+            this.age = a;
             System.out.println("This is parametrized contructor example");
             }
     void eat() {
